@@ -174,8 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,7 +187,7 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "b2527dfc4ca56a5a",
+  "active": "1dccf2adde3a4d38",
   "lastOpenFiles": [
     "target/test-classes"
   ]
